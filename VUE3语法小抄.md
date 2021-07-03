@@ -83,3 +83,4 @@ deactivated onDeactivated
 ### 获取 vite 的环境变量
 
 import.meta.env
+process.cwd() 方法返回 Node.js 进程的当前工作目录。

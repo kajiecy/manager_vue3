@@ -3,5 +3,5 @@ node_modules
 dist
 dist-ssr
 *.local
-yl_admin_online
-yl_admin_test
+admin_online
+admin_test

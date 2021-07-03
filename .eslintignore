@@ -1,9 +1,0 @@
-/lambda/
-/node_modules/
-/scripts
-/config
-.history
-public/
-webpack.config.js
-dist
-build
