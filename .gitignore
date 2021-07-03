@@ -1,7 +1,10 @@
 node_modules
+<<<<<<< HEAD
 .DS_Store
 dist
 dist-ssr
 *.local
 admin_online
 admin_test
+=======
+>>>>>>> bbc17d0 (ignore)
