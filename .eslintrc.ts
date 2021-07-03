@@ -1,0 +1,27 @@
+module.exports = {
+  globals: {
+    ANT_DESIGN_PRO_ONLY_DO_NOT_USE_IN_YOUR_PRODUCTION: true,
+    page: true,
+    REACT_APP_ENV: true,
+    ace: true,
+    dimensions: true,
+    demoData: true,
+  },
+  rules: {
+    "no-param-reassign": "off",
+    "max-classes-per-file": 0,
+    "lines-between-class-members": "off",
+    "prefer-promise-reject-errors": "off",
+    "@typescript-eslint/lines-between-class-members": "off",
+    "@typescript-eslint/no-shadow": "off",
+    "no-shadow": 0,
+    "no-bitwise": 0,
+    "no-plusplus": 2,
+    "no-case-declarations": 0,
+    "react-hooks/exhaustive-deps": 0,
+    "no-nested-ternary": 0,
+    "no-underscore-dangle": 0,
+    "@typescript-eslint/consistent-type-imports": "off",
+    "@typescript-eslint/consistent-type-definitions": "off",
+  },
+};
