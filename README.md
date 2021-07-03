@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 用 vue3 + Ts 搭建 梦枭的提交的代码转让 old 分支留档了
 
 # Vue 3 + Typescript + Vite
@@ -27,3 +28,8 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 3. Open `src/main.ts` in VSCode
 4. Open the VSCode command palette
 5. Search and run "Select TypeScript version" -> "Use workspace version"
+=======
+# manager_vue3
+
+vue3+vite+ts+eslint111
+>>>>>>> c911272 (测试)
