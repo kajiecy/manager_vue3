@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# manager_vue3
 
-vue3+vite+ts+eslint111
-=======
-<<<<<<< HEAD
 # 用 vue3 + Ts 搭建 梦枭的提交的代码转让 old 分支留档了
 
 # Vue 3 + Typescript + Vite
@@ -36,6 +31,3 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 =======
 # manager_vue3
 
-vue3+vite+ts+eslint111
->>>>>>> c911272 (测试)
->>>>>>> 5b6b24aaad87bd7533ce7f1fa144b5fee462496b
